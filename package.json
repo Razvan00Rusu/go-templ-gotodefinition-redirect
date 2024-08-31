@@ -6,6 +6,10 @@
     "name": "Razvan Rusu",
     "email": "razvan.rusu19@imperial.ac.uk"
   },
+  "publisher": "Razvan Rusu",
+  "repository": {
+    "directory": "https://github.com/Razvan00Rusu/go-templ-gotodefinition-redirect"
+  },
   "license": "MIT",
   "version": "0.0.1",
   "engines": {
